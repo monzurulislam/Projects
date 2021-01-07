@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\bin\Debug\Web Browser2.exe.config
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\bin\Debug\Web Browser2.exe
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\bin\Debug\Web Browser2.pdb
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\obj\Debug\Web Browser2.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\obj\Debug\Web_Browser2.Form1.resources
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\obj\Debug\Web_Browser2.Properties.Resources.resources
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\obj\Debug\Web Browser2.csproj.GenerateResource.Cache
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\obj\Debug\Web Browser2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\obj\Debug\Web Browser2.exe
+C:\Users\HP\source\repos\Web Browser2\Web Browser2\obj\Debug\Web Browser2.pdb
